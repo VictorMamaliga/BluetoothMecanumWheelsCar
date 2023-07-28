@@ -2,7 +2,7 @@
 
 This project involves creating an Arduino-based car equipped with Mecanum wheels, which are omnidirectional and controlled via Bluetooth.
 
-![Car](https://github.com/VictorMamaliga/BluetoothMecanumWheelsCar/assets/92131932/a4c43c4b-9193-4ef2-af6f-2cf8f94a8fa1)
+![Car](https://github.com/VictorMamaliga/BluetoothMecanumWheelsCar/assets/92131932/b848d9c7-beb5-4dc9-b53e-28a2bb87e9e7)
 
 
 ## Description
